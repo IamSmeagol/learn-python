@@ -1,6 +1,6 @@
 def fib(n: int):
     """
-    Prints Fibonacci numbers less than n
+    Prints Fibonacci numbers up to n
 
     Args
      n (int): Max number
